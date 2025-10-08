@@ -18,7 +18,7 @@ I'm an aspiring Software Development Engineer currently focused on building scal
 > **Master of Science in Information Management (MSIM) @ University of Illinois Urbana-Champaign (UIUC)**
 
 * **Focus:** Cloud Computing, Distributed Systems, Data Engineering, and Machine Learning.
-* **Graduation:** [Month], [Year] (e.g., May 2026)
+* **Graduation:**  May, May 2018
 
 ---
 
@@ -66,9 +66,8 @@ I'm an aspiring Software Development Engineer currently focused on building scal
 
 | Icon | Platform | Link |
 | :---: | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20" alt="LinkedIn"/> | **LinkedIn** | [Connect with me here]([Your LinkedIn URL]) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" width="20" alt="Twitter"/> | **Twitter / X** | [Follow my tech updates]([Your Twitter URL]) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="20" alt="Email"/> | **Email** | [Your Email Address] |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" width="20" alt="Twitter"/> | **Twitter / X** | [Follow my tech updates](https://x.com/yiwenzhang) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="20" alt="Email"/> | **Email** | yiwenzhang161@gmail.com |
 
 ***
 **Quote:** *“The biggest risk is not taking any risk... In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks.” - Mark Zuckerberg*
