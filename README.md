@@ -66,7 +66,7 @@ I'm an aspiring Software Development Engineer currently focused on building scal
 
 | Icon | Platform | Link |
 | :---: | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" width="20" alt="Twitter"/> | **Twitter / X** | [Follow my tech updates](https://x.com/yiwenzhang) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" width="20" alt="Twitter"/> | **Twitter / X** |(https://x.com/yiwenzhang) |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="20" alt="Email"/> | **Email** | yiwenzhang161@gmail.com |
 
 ***
