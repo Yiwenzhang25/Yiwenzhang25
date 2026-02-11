@@ -51,17 +51,6 @@ I'm an aspiring Software Development Engineer currently focused on building scal
 
 ---
 
-## 🚀 GitHub Stats (Optional)
-
-**Yiwenzhang25**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="[YourUsername] GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 | Icon | Platform | Link |
